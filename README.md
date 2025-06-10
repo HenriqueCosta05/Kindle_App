@@ -12,7 +12,4 @@ A kindle-related app, built for learning purposes
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
+**Client:** React Native & Expo
